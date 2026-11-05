@@ -13,4 +13,8 @@ add_executable(KalmanProject
 
 target_include_directories(KalmanProject PRIVATE
     "C:/msys64/ucrt64/include/eigen3"
+
+find_package(Eigen3 REQUIRED NO_MODULE)
+
+target_link_libraries(KalmanProject PRIVATE Eigen3::Eigen)
 )

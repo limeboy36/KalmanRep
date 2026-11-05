@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/limeb/Desktop/PythonFolder/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\KalmanProject.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\KalmanProject.dir\\main.cpp.obj -c C:\\Users\\limeb\\Desktop\\PythonFolder\\KalmanFolder\\main.cpp",
+  "file": "C:/Users/limeb/Desktop/PythonFolder/KalmanFolder/main.cpp",
+  "output": "CMakeFiles/KalmanProject.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/limeb/Desktop/PythonFolder/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\KalmanProject.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\KalmanProject.dir\\otherfile.cpp.obj -c C:\\Users\\limeb\\Desktop\\PythonFolder\\KalmanFolder\\otherfile.cpp",
+  "file": "C:/Users/limeb/Desktop/PythonFolder/KalmanFolder/otherfile.cpp",
+  "output": "CMakeFiles/KalmanProject.dir/otherfile.cpp.obj"
+},
+{
+  "directory": "C:/Users/limeb/Desktop/PythonFolder/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\KalmanProject.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\KalmanProject.dir\\KalmanFilter.cpp.obj -c C:\\Users\\limeb\\Desktop\\PythonFolder\\KalmanFolder\\KalmanFilter.cpp",
+  "file": "C:/Users/limeb/Desktop/PythonFolder/KalmanFolder/KalmanFilter.cpp",
+  "output": "CMakeFiles/KalmanProject.dir/KalmanFilter.cpp.obj"
+}
+]
